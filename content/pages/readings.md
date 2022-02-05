@@ -19,31 +19,252 @@ Dostoyevsky, Fyodor. _Crime and Punishment_. Translated by Richard Pevear and La
 
 Tolstoy, Leo. _Anna Karenina_. Translated by David Magarshack. New York, NY: Signet Classics, 2002. ISBN: 9780451528612. ([Download](http://www.gutenberg.org/etext/1399) a different translation by Constance Garnett from Project Gutenberg.)
 
-| LEC # | READINGS |
-| --- | --- |
-| 1 | Introduction |
-| 2 | _Don Quixote_. Chapters I-XXIII. |
-| 3 | _Don Quixote_. Chapters XXIV-XXX. |
-| 4 | _Don Quixote_. Chapters XXXI-end of excerpt. |
-| 5 | Balzac. _Père Goriot_, pp. 7-84. (Signet edition.) |
-| 6 | Balzac. _Père Goriot_, pp. 85-236. |
-| 7 | Balzac. _Père Goriot_, pp. 237-end. |
-| 8 | Stendhal. _The Red and the Black_. Book I, chapters 1-XXIII. |
-| 9 | Stendhal. _The Red and the Black_. Book I, chapters XXIV-end; Book II, chapters I-IV. |
-| 10 | Stendhal. _The Red and the Black_. Book II, chapters V-XXVIII. |
-| 11 | Stendhal. _The Red and the Black_. Book II, chapters XXIX-end. |
-| 12 | Flaubert. _Madame Bovary_. Part I; part II, chapters 1-5. |
-| 13 | Flaubert. _Madame Bovary_. Part II, chapters 6-11. |
-| 14 | Flaubert. _Madame Bovary_. Part II, chapters 12-end; part III, chapters 1-5. |
-| 15 | Flaubert. _Madame Bovary_. Part III, chapters 6-end. |
-| 16 | Dostoyevsky. _Crime and Punishment_. Part I; part II, chapters 1 and 2. |
-| 17 | Dostoyevsky. _Crime and Punishment_. Part II, chapters 3-end; part III, chapters 1 and 2. |
-| 18 | Dostoyevsky. _Crime and Punishment_. Part III, chapters 3-end; part IV; part V, chapters 1 and 2. |
-| 19 | Dostoyevsky. _Crime and Punishment_. Part V, chapters 3-end; part VI; epilogue. |
-| 20 | Tolstoy. _Anna Karenina_. Parts I, II. |
-| 21 | Tolstoy. _Anna Karenina_. Parts III, IV. |
-| 22 | Tolstoy. _Anna Karenina_. Part V. |
-| 23 | Tolstoy. _Anna Karenina_. Part VI; part VII, chapters 1-12. |
-| 24 | Tolstoy. _Anna Karenina_. Part VII, chapters 13-33; part VIII. |
-| 25 | To be announced |
-| 26 | To be announced
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+_Don Quixote_. Chapters I-XXIII.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+_Don Quixote_. Chapters XXIV-XXX.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+_Don Quixote_. Chapters XXXI-end of excerpt.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Balzac. _Père Goriot_, pp. 7-84. (Signet edition.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Balzac. _Père Goriot_, pp. 85-236.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Balzac. _Père Goriot_, pp. 237-end.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Stendhal. _The Red and the Black_. Book I, chapters 1-XXIII.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Stendhal. _The Red and the Black_. Book I, chapters XXIV-end; Book II, chapters I-IV.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Stendhal. _The Red and the Black_. Book II, chapters V-XXVIII.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Stendhal. _The Red and the Black_. Book II, chapters XXIX-end.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Flaubert. _Madame Bovary_. Part I; part II, chapters 1-5.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Flaubert. _Madame Bovary_. Part II, chapters 6-11.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Flaubert. _Madame Bovary_. Part II, chapters 12-end; part III, chapters 1-5.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Flaubert. _Madame Bovary_. Part III, chapters 6-end.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Dostoyevsky. _Crime and Punishment_. Part I; part II, chapters 1 and 2.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Dostoyevsky. _Crime and Punishment_. Part II, chapters 3-end; part III, chapters 1 and 2.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Dostoyevsky. _Crime and Punishment_. Part III, chapters 3-end; part IV; part V, chapters 1 and 2.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Dostoyevsky. _Crime and Punishment_. Part V, chapters 3-end; part VI; epilogue.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Tolstoy. _Anna Karenina_. Parts I, II.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Tolstoy. _Anna Karenina_. Parts III, IV.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Tolstoy. _Anna Karenina_. Part V.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Tolstoy. _Anna Karenina_. Part VI; part VII, chapters 1-12.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Tolstoy. _Anna Karenina_. Part VII, chapters 13-33; part VIII.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+To be announced
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+To be announced
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

@@ -26,13 +26,117 @@ The subject meets twice a week for two ninety-minute sessions. Each session begi
 Summary Calendar
 ----------------
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction | &nbsp; |
-| 2-4 | Cervantes, _Don Quixote_ (excerpts) | &nbsp; |
-| 5-7 | Balzac, _Père Goriot_ | &nbsp; |
-| 8-11 | Stendhal, _The Red and the Black_ | Paper 1 due in Lec #11 |
-| 12-15 | Flaubert, _Madame Bovary_ | &nbsp; |
-| 16-19 | Dostoyevsky, _Crime and Punishment_ | Paper 2 due in Lec #19 |
-| 20-24 | Tolstoy, _Anna Karenina_ | &nbsp; |
-| 25-26 | To be announced | Paper 3 due in Lec #26
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2-4
+{{< tdclose >}}
+{{< tdopen >}}
+Cervantes, _Don Quixote_ (excerpts)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5-7
+{{< tdclose >}}
+{{< tdopen >}}
+Balzac, _Père Goriot_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8-11
+{{< tdclose >}}
+{{< tdopen >}}
+Stendhal, _The Red and the Black_
+{{< tdclose >}}
+{{< tdopen >}}
+Paper 1 due in Lec #11
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12-15
+{{< tdclose >}}
+{{< tdopen >}}
+Flaubert, _Madame Bovary_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16-19
+{{< tdclose >}}
+{{< tdopen >}}
+Dostoyevsky, _Crime and Punishment_
+{{< tdclose >}}
+{{< tdopen >}}
+Paper 2 due in Lec #19
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20-24
+{{< tdclose >}}
+{{< tdopen >}}
+Tolstoy, _Anna Karenina_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25-26
+{{< tdclose >}}
+{{< tdopen >}}
+To be announced
+{{< tdclose >}}
+{{< tdopen >}}
+Paper 3 due in Lec #26
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
